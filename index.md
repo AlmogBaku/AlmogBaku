@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# [README] Almog Baku - LLM developer and strategist
+# README
 
 [![Follow on X](https://img.shields.io/badge/@AlmogBaku-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/almogbaku)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almogbaku/)

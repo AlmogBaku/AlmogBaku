@@ -1,13 +1,13 @@
-remote_theme: pages-themes/primer@v0.2.0
+remote_theme: pages-themes/primer
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-seo-tag
+
 title: Almog Baku - LLM developer and strategist
 description: >-
   Experienced LLM developer and strategist. Empowering organizations to harness 
   the power of Large Language Models through hands-on consulting, from concept 
   to production.
-
-plugins:
-  - jekyll-remote-theme
-  - jekyll-seo-tag
 
 # Build settings
 markdown: kramdown
