@@ -95,7 +95,7 @@ we can tailor these services to your specific needs and goals.
 
 1. **[The LLM Triangle Principle: Software Design Principles for Reliable LLM Apps][ltp]**
 
-    An innovative approach to designing robust LLM-based applications for real-world use, derived from hands-on project
+   An innovative approach to designing robust LLM-based applications for real-world use, derived from hands-on project
    Software design principles for thoughtfully designing reliable, high-performing LLM applications. A framework to
    bridge the gap between potential and production-grade performance.
 
@@ -106,18 +106,41 @@ we can tailor these services to your specific needs and goals.
 
 
 3. **[8 Practical Tips for Better LLM Apps][le-tips]**
-   
-    Essential tips for effective prompt engineering in LLM applications, based on direct implementation experience.
+
+   Essential tips for effective prompt engineering in LLM applications, based on direct implementation experience.
 
 4. **[Effective AI Infrastructure Explained][ft-platform]**
-   
-    Exploring modern AI infrastructure and its impact on the ML lifecycle, informed by hands-on project work and cloud
+
+   Exploring modern AI infrastructure and its impact on the ML lifecycle, informed by hands-on project work and cloud
    native expertise.
 
 5. **Talks**
 
-    From time to time, I give talks on various meetups, podcasts and conferences. You can find some of them on my
-    [LinkedIn][linkedin] profile. Make sure to follow me to get updates on upcoming talks.
+   From time to time, I give talks on various meetups, podcasts and conferences. You can find some of them on my
+   [LinkedIn][linkedin] profile. Make sure to follow me to get updates on upcoming talks.
+
+## Open Source Contributions
+
+I've been an active contributor to open source projects for over 15 years, regularly participating in various projects.
+My contributions range from creating new tools to maintaining major projects, or just sending PRs for bugs 🙃
+
+Here's a revised version of the open source contribution section for your README, starting with a brief overview of your
+activity and then listing your most interesting contributions:
+
+### Notable contributions:
+
+- **Creator of [Raptor.ml](https://github.com/raptor-ml/raptor)**: An AI infrastructure project that helps to build and
+  deploy AI to production - the gap between data science and engineering.
+
+- **Author of [openai-streaming](https://github.com/AlmogBaku/openai-streaming)**: A Python library simplifying
+  interactions with LLM Streaming API, including for tool using purposes.
+
+- **[Kubernetes](https://kubernetes.io/) Maintainer**: Active contributor since 2016, focusing on cloud-native big data
+  solutions and Kubernetes Native architectures.
+
+- **Various Contributions**: Ongoing involvement in multiple open source projects, consistently pushing for advancements
+  in technology and knowledge sharing.
+
 ---
 
 Connect with me on [LinkedIn][linkedin], [GitHub][github], or via
@@ -125,7 +148,9 @@ Connect with me on [LinkedIn][linkedin], [GitHub][github], or via
 
 
 [linkedin]: https://www.linkedin.com/in/almogbaku/
+
 [github]: https://github.com/AlmogBaku
+
 [x]: https://x.com/AlmogBaku
 [mailto]: mailto:almog.baku@gmail.com)
 
