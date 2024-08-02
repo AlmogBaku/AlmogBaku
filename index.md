@@ -4,10 +4,10 @@ layout: default
 
 # README
 
-[![Follow on X](https://img.shields.io/badge/@AlmogBaku-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/almogbaku)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almogbaku/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlmogBaku)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almog.baku@gmail.com)
+[![Follow on X](https://img.shields.io/badge/@AlmogBaku-000?style=for-the-badge&logo=x&logoColor=white)][x]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mailto]
 
 Hi, I'm Almog - an **LLM enthusiast** and **hands-on consultant** passionate about bringing AI innovation to life. For
 the past couple years, I've been:
@@ -32,6 +32,8 @@ something amazing with AI!
 - ☁️ Cloud-Native AI Solutions Optimized for Performance
 - 🚀 Large-Scale AI Engineering for Real-World Impact
 - 🖥️ Startup and entrepreneurial experience in AI and cloud technologies
+
+---
 
 ## Why Work With Me
 
@@ -68,6 +70,8 @@ This approach has consistently led to significant improvements in LLM applicatio
 cost-efficiency across diverse industries - from cybersecurity and marketing to telecom, B2B, B2C applications, and many
 more.
 
+---
+
 ## Services
 
 1. **Fractional CTO / "CTO-team for hire"** (2-3 days/week, hourly rate)
@@ -85,30 +89,45 @@ more.
 Let's collaborate to transform your AI aspirations into tangible, business-driving solutions. Reach out to discuss how
 we can tailor these services to your specific needs and goals.
 
-## Publications (Based on Hands-On Experience)
+---
 
-1. [The LLM Triangle Principle: Software Design Principles for Reliable LLM Apps][ltp]
-   An innovative approach to designing robust LLM-based applications for real-world use, derived from hands-on project
+## Publications
+
+1. **[The LLM Triangle Principle: Software Design Principles for Reliable LLM Apps][ltp]**
+
+    An innovative approach to designing robust LLM-based applications for real-world use, derived from hands-on project
    Software design principles for thoughtfully designing reliable, high-performing LLM applications. A framework to
    bridge the gap between potential and production-grade performance.
 
-2. [Building LLM Apps: A Step-By-Step Guide][llm-dev-proc]
+2. **[Building LLM Apps: A Step-By-Step Guide][llm-dev-proc]**
+
    A comprehensive guide to LLM application development, from experimentation to production, based on personal
    implementation experience.
 
 
-3. [8 Practical Tips for Better LLM Apps][le-tips]
-   Essential tips for effective prompt engineering in LLM applications, based on direct implementation experience.
+3. **[8 Practical Tips for Better LLM Apps][le-tips]**
+   
+    Essential tips for effective prompt engineering in LLM applications, based on direct implementation experience.
 
-4. [Effective AI Infrastructure Explained][ft-platform]
-   Exploring modern AI infrastructure and its impact on the ML lifecycle, informed by hands-on project work and cloud
+4. **[Effective AI Infrastructure Explained][ft-platform]**
+   
+    Exploring modern AI infrastructure and its impact on the ML lifecycle, informed by hands-on project work and cloud
    native expertise.
 
+5. **Talks**
+
+    From time to time, I give talks on various meetups, podcasts and conferences. You can find some of them on my
+    [LinkedIn][linkedin] profile. Make sure to follow me to get updates on upcoming talks.
 ---
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/almogbaku/), [GitHub](https://github.com/AlmogBaku), or via
-[Email](mailto:almog.baku@gmail.com) to discuss how we can collaborate on your next LLM project.
+Connect with me on [LinkedIn][linkedin], [GitHub][github], or via
+[Email][mailto] to discuss how we can collaborate on your next LLM project.
 
+
+[linkedin]: https://www.linkedin.com/in/almogbaku/
+[github]: https://github.com/AlmogBaku
+[x]: https://x.com/AlmogBaku
+[mailto]: mailto:almog.baku@gmail.com)
 
 [ltp]: https://towardsdatascience.com/the-llm-triangle-principles-to-architect-reliable-ai-apps-d3753dd8542e
 
