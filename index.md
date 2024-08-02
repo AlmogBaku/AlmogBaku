@@ -35,11 +35,11 @@ something amazing with AI!
 
 ---
 
-
-I'm not your typical consultant. With hands-on experience building dozens of LLM applications from strategy to
-production, I offer practical insights to help you navigate the complex landscape of AI implementation.
-
 ## Why Work With Me
+
+I'm not your typical consultant. With **hands-on experience** building *dozens of LLM applications* from strategic
+planning to production, I offer **practical insights** to help you navigate the *complex landscape of AI
+implementation*.
 
 You should consider working with me if:
 
@@ -51,16 +51,6 @@ You should consider working with me if:
 - You want to **optimize LLM performance and accuracy** or **reduce costs** at scale with real-world techniques
 - You're looking for _hands-on_ guidance in **nurturing AI ideas and innovations** into **full-fledged products**, from
   strategic conception to market-ready implementation
-
-
-- 🧭 Strategic direction for LLM initiatives, guided by a clear, step-by-step methodology
-- 🛠️ Deep understanding of LLM tools and frameworks, with a focus on production deployment
-- ⚡ Performance and cost optimization for scalable, real-world LLM solutions
-- 🐛 Tackling complex LLM challenges through structured experimentation and iteration
-- 🚀 Innovative LLM applications designed for tangible business impact
-- 🏗️ Architecting robust LLM solutions that go beyond proof-of-concept
-- 🔧 Bridging the gap between LLM research and practical implementation
-- 📈 Scaling LLM initiatives to meet enterprise-level demands and reliability standards
 
 In the fast-paced LLM field, **demos are easy, but production-ready apps are challenging**. I bridge this gap using the
 [**LLM Triangle Principles**][ltp], a unique technique I developed to create robust, scalable solutions with real-world
