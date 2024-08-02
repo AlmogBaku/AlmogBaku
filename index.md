@@ -150,7 +150,7 @@ Connect with me on [LinkedIn][linkedin], [GitHub][github], or via
 [github]: https://github.com/AlmogBaku
 
 [x]: https://x.com/AlmogBaku
-[mailto]: mailto:almog.baku@gmail.com)
+[mailto]: mailto:almog.baku@gmail.com
 
 [ltp]: https://towardsdatascience.com/the-llm-triangle-principles-to-architect-reliable-ai-apps-d3753dd8542e
 
