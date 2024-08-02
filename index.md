@@ -125,9 +125,6 @@ drive innovation.
 I've been an active contributor to open source projects for over 15 years, regularly participating in various projects.
 My contributions range from creating new tools to maintaining major projects, or just sending PRs for bugs 🙃
 
-Here's a revised version of the open source contribution section for your README, starting with a brief overview of your
-activity and then listing your most interesting contributions:
-
 ### Notable contributions:
 
 - **Creator of [Raptor.ml](https://github.com/raptor-ml/raptor)**: An AI infrastructure project that helps to build and
