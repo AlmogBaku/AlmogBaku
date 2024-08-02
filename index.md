@@ -105,7 +105,7 @@ we can tailor these services to your specific needs and goals.
    implementation experience.
 
 
-3. **[8 Practical Tips for Better LLM Apps][le-tips]**
+3. **[8 Practical Prompt Engineering Tips for Better LLM Apps][le-tips]**
 
    Essential tips for effective prompt engineering in LLM applications, based on direct implementation experience.
 
