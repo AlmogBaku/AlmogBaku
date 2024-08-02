@@ -9,8 +9,6 @@ layout: default
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlmogBaku)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almog.baku@gmail.com)
 
-## Empowering Organizations with Cutting-Edge LLM Solutions
-
 I'm a **hands-on LLM consultant** dedicated to helping organizations harness the power of Large Language Models. With a
 background as a serial tech entrepreneur and founder of an AI infrastructure company, I bring a unique blend of
 innovation, rapid development skills, and deep technical expertise to every project.
