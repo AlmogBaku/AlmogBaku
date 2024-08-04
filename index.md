@@ -94,29 +94,19 @@ drive innovation.
 
 ## Publications
 
-1. **[The LLM Triangle Principle: Software Design Principles for Reliable LLM Apps][ltp]**
-
+1. **[The LLM Triangle Principle: Software Design Principles for Reliable LLM Apps][ltp]** <br />
    An innovative approach to designing robust LLM-based applications for real-world use, derived from hands-on project
    Software design principles for thoughtfully designing reliable, high-performing LLM applications. A framework to
    bridge the gap between potential and production-grade performance.
-
-2. **[Building LLM Apps: A Step-By-Step Guide][llm-dev-proc]**
-
+2. **[Building LLM Apps: A Step-By-Step Guide][llm-dev-proc]** <br />
    A comprehensive guide to LLM application development, from experimentation to production, based on personal
    implementation experience.
-
-
-3. **[8 Practical Prompt Engineering Tips for Better LLM Apps][le-tips]**
-
+3. **[8 Practical Prompt Engineering Tips for Better LLM Apps][le-tips]** <br />
    Essential tips for effective prompt engineering in LLM applications, based on direct implementation experience.
-
-4. **[Effective AI Infrastructure Explained][ft-platform]**
-
+4. **[Effective AI Infrastructure Explained][ft-platform]** <br />
    Exploring modern AI infrastructure and its impact on the ML lifecycle, informed by hands-on project work and cloud
    native expertise.
-
-5. **Talks**
-
+5. **Talks** <br />
    From time to time, I give talks on various meetups, podcasts and conferences. You can find some of them on my
    [LinkedIn][linkedin] profile. Make sure to follow me to get updates on upcoming talks.
 
@@ -150,6 +140,7 @@ Connect with me on [LinkedIn][linkedin], [GitHub][github], or via
 [github]: https://github.com/AlmogBaku
 
 [x]: https://x.com/AlmogBaku
+
 [mailto]: mailto:almog.baku@gmail.com
 
 [ltp]: https://towardsdatascience.com/the-llm-triangle-principles-to-architect-reliable-ai-apps-d3753dd8542e
