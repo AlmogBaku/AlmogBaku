@@ -14,8 +14,7 @@ the past couple years, I've been:
 
 - Helping organizations build **LLM apps from strategy to production**
 - Founder of [**GenAI Israel**](https://llm.org.il) - the largest GenAI community for practitioners (Over 5000+
-  engineers, CTOs, researchers, and data
-  scientists)
+  engineers, CTOs, researchers, and data scientists)
 - Serving as **Fractional CTO for LLMs** - think of "CTO-team for hire", turning you into an octopus, with
   an extra pair of hands for LLM projects
 - **Serial tech entrepreneur**; ex-AI infrastructure founder with extensive cloud-native experience (Kubernetes
@@ -119,13 +118,10 @@ My contributions range from creating new tools to maintaining major projects, or
 
 - **Creator of [Raptor.ml](https://github.com/raptor-ml/raptor)**: An AI infrastructure project that helps to build and
   deploy AI to production - the gap between data science and engineering.
-
 - **Author of [openai-streaming](https://github.com/AlmogBaku/openai-streaming)**: A Python library simplifying
   interactions with LLM Streaming API, including for tool using purposes.
-
 - **[Kubernetes](https://kubernetes.io/) Maintainer**: Active contributor since 2016, focusing on cloud-native big data
   solutions and Kubernetes Native architectures.
-
 - **Various Contributions**: Ongoing involvement in multiple open source projects, consistently pushing for advancements
   in technology and knowledge sharing.
 
