@@ -122,7 +122,7 @@ My contributions range from creating new tools to maintaining major projects, or
   interactions with LLM Streaming API, including for tool using purposes.
 - **[Kubernetes](https://kubernetes.io/) Maintainer**: Active contributor since 2016, focusing on cloud-native big data
   solutions and Kubernetes Native architectures.
-- **[LLM Playground](https://github.com/AlmogBaku/llm-playground**: An interface to play/compare different LLM models directly from your browser.
+- **[LLM Playground](https://github.com/AlmogBaku/llm-playground)**: An interface to play/compare different LLM models directly from your browser.
 - **Various Contributions**: Ongoing involvement in multiple open source projects, consistently pushing for advancements
   in technology and knowledge sharing.
 
