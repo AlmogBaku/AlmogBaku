@@ -109,6 +109,33 @@ drive innovation.
    From time to time, I give talks on various meetups, podcasts and conferences. You can find some of them on my
    [LinkedIn][linkedin] profile. Make sure to follow me to get updates on upcoming talks.
 
+## As Seen On
+
+I've been featured in various podcasts, meetups, and conferences. If you're interested in having me as a guest speaker
+or
+panelist, please reach out via [Email][mailto].
+
+Recent appearances include:
+
+* [**AI Dev TLV '24** - Talk](https://youtu.be/84XEIQjTH3A?si=XgKn40azvpZHfRu6) (Hebrew) / The LLM Triangle: Engineering
+  Principles for Robust AI Applications - a talk I gave at the AI Dev TLV '24 conference about the LLM Triangle
+  principles and how to architect reliable AI apps in a production-grade manner.
+* [**LangTalk E35**](https://open.spotify.com/episode/6msIT1pr4rCCYi1vnsXCtw?si=90bOkfTuSMKIkU_RYV7UwQ) (Hebrew) / LLM
+  Applications Developer Guide - An end to end guide on how to get started and deploy to production your llm app
+* [**Making Software (Osim Tochna) E165**](https://www.osimhistoria.com/software/ep165-llm) (Hebrew) / From a PoC to a
+  product - the hidden challenges of deploying LLM applications
+* [**AI In Production Conference
+  ** - Talk](https://home.mlops.community/public/videos/how-to-build-llm-native-apps-with-the-magic-triangle-blueprint) (
+  English) / How to Build LLM-native Apps with The LLM Triangle Blueprint - a talk I gave at the AI In Production
+  Conference about the LLM Triangle principles and how to architect reliable AI apps in a production-grade manner.
+* [**The MLOps Podcast /🫣 Is Data Science a dying job?**](https://open.spotify.com/episode/5j9513kijaRxJ30ixcFpTE) (
+  English) - About Kubernetes, Large Language Models (LLMs), how to get them into production, and how data is becoming a
+  more central piece of the ML landscape.
+* [**AI Infra Stories**](https://creators.spotify.com/pod/show/ai-infra-stories/) (English) - A podcast about AI
+  infrastructure, where I hosted world-class AI infrastructure experts to discuss the latest trends and challenges in AI
+  infrastructure.
+* And many more... 🚀
+
 ## Open Source Contributions
 
 I've been an active contributor to open source projects for over 15 years, regularly participating in various projects.
