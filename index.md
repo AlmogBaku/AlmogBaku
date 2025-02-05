@@ -9,14 +9,13 @@ layout: default
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mailto]
 
-Hi, I'm Almog - an **LLM enthusiast** and **hands-on consultant** passionate about bringing AI innovation to life. For
-the past couple years, I've been:
+Hi, I'm Almog - an **LLM engineering expert** and **a startup entrepreneur** passionate about bringing AI innovation to
+life. For the past couple years, I've been:
 
-- Helping organizations build **LLM apps from strategy to production**
+- Author of **[The LLM Triangle Principle][ltp]** - a framework for building reliable LLM applications in production.
+- Helped to **build and deploy dozens of LLM apps from idea to production** as a hands-on consultant.
 - Founder of [**GenAI Israel**](https://llm.org.il) - the largest GenAI community for practitioners (Over 5000+
   engineers, CTOs, researchers, and data scientists)
-- Serving as **Fractional CTO for LLMs** - think of "CTO-team for hire", turning you into an octopus, with
-  an extra pair of hands for LLM projects
 - **Serial tech entrepreneur**; ex-AI infrastructure founder with extensive cloud-native experience (Kubernetes
   maintainer)
 
@@ -31,63 +30,6 @@ something amazing with AI!
 - ☁️ Cloud-Native AI Solutions Optimized for Performance
 - 🚀 Large-Scale AI Engineering for Real-World Impact
 - 🖥️ Startup and entrepreneurial experience in AI and cloud technologies
-
----
-
-## Why Work With Me
-
-I'm not your typical consultant. With **hands-on experience** building *dozens of LLM applications* from strategic
-planning to production, I offer **practical insights** to help you navigate the *complex landscape of AI
-implementation*.
-
-You should consider working with me if:
-
-- You're unsure how to **systematically improve** your LLM products and need a hands-on expert
-- You feel **overwhelmed by the flood** of AI tools and want practical, experience-based guidance
-- You need an expert to **evaluate your AI infrastructure** and provide actionable, technical recommendations
-- You're struggling to move from **PoC to production-ready** LLM applications and require direct implementation support
-- You want to **align your LLM strategy** with business objectives through concrete, executable plans
-- You want to **optimize LLM performance and accuracy** or **reduce costs** at scale with real-world techniques
-- You're looking for _hands-on_ guidance in **nurturing AI ideas and innovations** into **full-fledged products**, from
-  strategic conception to market-ready implementation
-
-In the fast-paced LLM field, **demos are easy, but production-ready apps are challenging**. I bridge this gap using the
-[**LLM Triangle Principles**][ltp], a unique technique I developed to create robust, scalable solutions with real-world
-impact - crucial for both **business success** and **technical validation**.
-
-## Approach and Methodology
-
-Drawing from extensive experience in tech leadership and startups, I've developed a methodology focused on delivering
-tangible results:
-
-1. **Flexible Engagement:** On-site or remote, 2-3 days/week
-2. **Structured Experimentation:** Clear LLM development process
-3. **Goal-Oriented Sprints:** Focused on measurable outcomes
-4. **Hands-On Problem-Solving:** Direct technical involvement
-5. **Strategic Alignment:** LLM initiatives support business goals
-6. **Continuous Optimization:** Refining based on real-world data
-7. **Startup Pace:** Rapid prototyping and agile development
-
-This **battle-tested methodology**, detailed in my [LLM development whitepaper][llm-dev-proc], *consistently improves*
-LLM application **performance**, **reliability**, and **cost-efficiency**. It's proven effective across diverse
-industries - from cybersecurity and marketing to telecom, B2B, and B2C - leveraging my *broad market experience* to
-drive innovation.
-
----
-
-## Services
-
-1. **Fractional CTO / "CTO-team for hire"** (2-3 days/week, hourly rate)
-   Leveraging executive-level expertise for LLM and AI infrastructure projects.
-
-2. **Strategic LLM Innovation Workshop**
-   Empowering leadership teams with in-depth understanding of LLM technologies and strategies.
-
-3. **Technical Talks and Consultations**
-   Providing insights on cutting-edge AI infrastructure and large-scale LLM applications.
-
-4. **Strategic Consulting**
-   Offering expert guidance on LLM for AI-related investments.
 
 ---
 
@@ -112,8 +54,7 @@ drive innovation.
 ## As Seen On
 
 I've been featured in various podcasts, meetups, and conferences. If you're interested in having me as a guest speaker
-or
-panelist, please reach out via [Email][mailto].
+or panelist, please reach out via [Email][mailto].
 
 Recent appearances include:
 
@@ -149,14 +90,17 @@ My contributions range from creating new tools to maintaining major projects, or
   interactions with LLM Streaming API, including for tool using purposes.
 - **[Kubernetes](https://kubernetes.io/) Maintainer**: Active contributor since 2016, focusing on cloud-native big data
   solutions and Kubernetes Native architectures.
-- **[LLM Playground](https://github.com/AlmogBaku/llm-playground)**: An interface to play/compare different LLM models directly from your browser.
+- **[pytest-evals](https://github.com/AlmogBaku/pytest-evals)**: A pytest plugin for running and analyzing LLM
+  evaluation tests.
+- **[LLM Playground](https://github.com/AlmogBaku/llm-playground)**: An interface to play/compare different LLM models
+  directly from your browser.
 - **Various Contributions**: Ongoing involvement in multiple open source projects, consistently pushing for advancements
   in technology and knowledge sharing.
 
 ---
 
 Connect with me on [LinkedIn][linkedin], [GitHub][github], or via
-[Email][mailto] to discuss how we can collaborate on your next LLM project.
+[Email][mailto] to discuss how we can collaborate.
 
 
 [linkedin]: https://www.linkedin.com/in/almogbaku/

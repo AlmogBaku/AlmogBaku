@@ -3,11 +3,10 @@ plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-seo-tag
 
-title: Almog Baku - LLM developer and strategist
+title: Almog Baku - LLM engineering and entrepreneur
 description: >-
-  Experienced LLM developer and strategist. Empowering organizations to harness 
-  the power of Large Language Models through hands-on consulting, from concept 
-  to production.
+  Experienced LLM developer and strategist. Helped to build and deploy dozens of LLM projects, from idea to production,
+  for early-stage startups and enterprises. The Father of Contexts. The author of the "LLM Magic Triangle Principles".
 
 # Build settings
 markdown: kramdown
