@@ -58,6 +58,9 @@ or panelist, please reach out via [Email][mailto].
 
 Recent appearances include:
 
+* [**AI Engineer Summit (Online track)** - Talk](https://www.youtube.com/watch?v=ro5HkZvzfiQ) (English) / The LLM Triangle: Engineering
+  Principles for Robust AI Applications - a talk I gave at the AI Engineer Summit about the LLM Triangle principles and
+  how to architect reliable AI apps in a production-grade manner.
 * [**AI Dev TLV '24** - Talk](https://youtu.be/84XEIQjTH3A?si=XgKn40azvpZHfRu6) (Hebrew) / The LLM Triangle: Engineering
   Principles for Robust AI Applications - a talk I gave at the AI Dev TLV '24 conference about the LLM Triangle
   principles and how to architect reliable AI apps in a production-grade manner.
@@ -65,8 +68,7 @@ Recent appearances include:
   Applications Developer Guide - An end to end guide on how to get started and deploy to production your llm app
 * [**Making Software (Osim Tochna) E165**](https://www.osimhistoria.com/software/ep165-llm) (Hebrew) / From a PoC to a
   product - the hidden challenges of deploying LLM applications
-* [**AI In Production Conference
-  ** - Talk](https://home.mlops.community/public/videos/how-to-build-llm-native-apps-with-the-magic-triangle-blueprint) (
+* [**AI In Production Conference** - Talk](https://home.mlops.community/public/videos/how-to-build-llm-native-apps-with-the-magic-triangle-blueprint) (
   English) / How to Build LLM-native Apps with The LLM Triangle Blueprint - a talk I gave at the AI In Production
   Conference about the LLM Triangle principles and how to architect reliable AI apps in a production-grade manner.
 * [**The MLOps Podcast /🫣 Is Data Science a dying job?**](https://open.spotify.com/episode/5j9513kijaRxJ30ixcFpTE) (
