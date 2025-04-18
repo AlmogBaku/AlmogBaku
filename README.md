@@ -4,7 +4,7 @@
 
 I'm an entrepreneur, LLM expert, and community builder passionate about turning cutting-edge AI into impactful outcomes.
 
-🚀 **Seasoned ~hacker~ builder*: Founded multiple tech startups, guiding ideas through growth and strategic partnerships.
+🚀 **Seasoned ~hacker~ builder**: Founded multiple tech startups, guiding ideas through growth and strategic partnerships.
 
 🧠 **AI Expertise**: Creator of the LLM Triangle Framework, Kubernetes maintainer, and open-source contributor focused on production-grade AI.
 
