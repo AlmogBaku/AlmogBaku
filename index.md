@@ -14,7 +14,7 @@ life. For the past couple years, I've been:
 
 - Author of **[The LLM Triangle Principle][ltp]** - a framework for building reliable LLM applications in production.
 - Helped to **build and deploy dozens of LLM apps from idea to production** as a hands-on consultant.
-- Founder of [**GenAI Israel**](https://llm.org.il) - the largest GenAI community for practitioners (Over 5000+
+- Founder of [**GenAI Israel**](https://llm.org.il) - the largest GenAI community for practitioners (Over 7,000+
   engineers, CTOs, researchers, and data scientists)
 - **Serial tech entrepreneur**; ex-AI infrastructure founder with extensive cloud-native experience (Kubernetes
   maintainer)
