@@ -6,9 +6,9 @@ I'm an entrepreneur, LLM expert, and community builder passionate about turning 
 
 🚀 **Seasoned ~hacker~ builder**: Founded multiple tech startups, guiding ideas through growth and strategic partnerships.
 
-🧠 **AI Expertise**: Creator of the LLM Triangle Framework, Kubernetes maintainer, and open-source contributor focused on production-grade AI.
+🧠 **AI Expertise**: Creator of the LLM Triangle Framework, Ex-Kubernetes maintainer(k8s OG '15🤘), and open-source contributor focused on production-grade AI.
 
-🌍 **Community**: Founded GenAI Israel, the largest GenAI community in Israel (5,000+ members). Frequent speaker at conferences and podcasts.
+🌍 **Community**: Founded GenAI Israel, the largest GenAI community in Israel (7,000+ members). Frequent speaker at conferences and podcasts.
 
 🔧 **Strategic Problem Solver**: Helped businesses navigate complex technical and strategic challenges, aligning products and markets.
 
