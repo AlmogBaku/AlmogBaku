@@ -67,10 +67,12 @@ Recent appearances include:
   principles and how to architect reliable AI apps in a production-grade manner.
 * [**LangTalk E35**](https://open.spotify.com/episode/6msIT1pr4rCCYi1vnsXCtw?si=90bOkfTuSMKIkU_RYV7UwQ) (Hebrew) / LLM
   Applications Developer Guide - An end to end guide on how to get started and deploy to production your llm app
+* [**ExplAInable Podcast **](https://www.podbean.com/ew/pb-a2gr4-1984c3c) (Hebrew) / Are Evals a Scam? Feedback is All You Need
+  How to effectively get working AI Agents when you don't know what you don't know. *Discussing the importance of feedback loops and
+  importance of looking at real user data to improve your LLM applications.*
 * [**Making Software (Osim Tochna) E165**](https://www.osimhistoria.com/software/ep165-llm) (Hebrew) / From a PoC to a
   product - the hidden challenges of deploying LLM applications
-* [**AI In Production Conference
-  ** - Talk](https://home.mlops.community/public/videos/how-to-build-llm-native-apps-with-the-magic-triangle-blueprint) (
+* [**AI In Production Conference** - Talk](https://home.mlops.community/public/videos/how-to-build-llm-native-apps-with-the-magic-triangle-blueprint) (
   English) / How to Build LLM-native Apps with The LLM Triangle Blueprint - a talk I gave at the AI In Production
   Conference about the LLM Triangle principles and how to architect reliable AI apps in a production-grade manner.
 * [**The MLOps Podcast /🫣 Is Data Science a dying job?**](https://open.spotify.com/episode/5j9513kijaRxJ30ixcFpTE) (
