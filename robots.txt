@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://almogbaku.com/sitemap.xml
+Llms-Txt: https://almogbaku.com/llms.txt
