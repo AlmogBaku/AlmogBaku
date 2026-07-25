@@ -54,6 +54,9 @@ or panelist, please reach out via [Email][mailto].
 
 Recent appearances include:
 
+* [**AI Dev TLV '25** - Talk](https://www.youtube.com/watch?v=pxeWtRgIbd0) (English) / Feedback Is All You Need - How
+  to Build Agents That Learn on the Job - a talk I gave at AI Dev TLV '25 about building AI agents that improve
+  through feedback loops while on the job.
 * [**AI Engineer Summit (Online track)** - Talk](https://www.youtube.com/watch?v=ro5HkZvzfiQ) (English) / The LLM
   Triangle: Engineering
   Principles for Robust AI Applications - a talk I gave at the AI Engineer Summit about the LLM Triangle principles and
@@ -98,6 +101,29 @@ My contributions range from creating new tools to maintaining major projects, or
   directly from your browser.
 - **Various Contributions**: Ongoing involvement in multiple open source projects, consistently pushing for advancements
   in technology and knowledge sharing.
+
+---
+
+## Services
+
+I help startups move fast, enterprises scale AI, and investors make smart AI bets. Consultant, exec, or hands-on
+builder - whichever the problem needs.
+
+1. **Fractional CTO / "CTO-team for hire"** (2-3 days/week, hourly rate) <br />
+   Move fast in the right direction on AI and infrastructure - executive-level leadership, part-time, without the
+   full-time cost.
+2. **Workshops** <br />
+   Giving your team the skills and tools that create real value - hands-on workshops on AI Engineering, AI SDLC, and
+   Agents.
+3. **AI Transformation** <br />
+   Unlocking the real value of AI agents inside your organization - designing and building the agents, tools,
+   processes, and methodologies your team needs, shaped to fit your company's existing DNA (not bolted on top of it).
+4. **Technical Talks** <br />
+   Practical, battle-tested insights on AI infrastructure and large-scale LLM applications - delivered as conference
+   talks and panels.
+5. **Strategic Consulting** <br />
+   A trusted advisor on AI investment and strategy decisions - from high-stakes calls to lighter, ad-hoc guidance,
+   drawing on expertise across engineering, infrastructure, and leadership.
 
 ---
 
