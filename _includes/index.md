@@ -13,8 +13,8 @@ dozens of LLM apps and agents deployed to production.
 - **Serial founder and Kubernetes contributor since 2016** - production-grade distributed-systems scars, now applied
   to how I build AI.
 
-I write and speak - often bluntly - about what actually breaks when you run AI agents in production, and what it
-takes to make them reliable.
+I hack, build, write, and speak - often bluntly - about what actually breaks when you run AI agents in production,
+and what it takes to make them reliable.
 
 ### Areas of Expertise
 
