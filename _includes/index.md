@@ -5,52 +5,45 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][github]
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mailto]
 
-Hi, I'm Almog - an **LLM engineering expert** and **a startup entrepreneur** passionate about bringing AI innovation to
-life. For the past couple years, I've been:
+Hi, I'm Almog - a hands-on AI engineering expert, doing AI for almost a decade - since long before LLMs - with
+dozens of LLM apps and agents deployed to production.
 
 - Author of **[The LLM Triangle Principle][ltp]** - a framework for building reliable LLM applications in production.
-- Helped to **build and deploy dozens of LLM apps from idea to production** as a hands-on consultant.
-- Founder of [**GenAI Israel**](https://llm.org.il) - the largest GenAI community for practitioners (Over 8,000
-  engineers, CTOs, researchers, and data scientists)
-- **Serial tech entrepreneur**; ex-AI infrastructure founder with extensive cloud-native experience (Kubernetes
-  maintainer)
+- Founder of [**GenAI Israel**](https://llm.org.il) - the largest LLM developers community in Israel (8,000+ members).
+- **Serial founder and Kubernetes contributor since 2016** - production-grade distributed-systems scars, now applied
+  to how I build AI.
 
-I love turning *LLM dreams into reality* - whether it's high-level strategy or diving deep into code. Let's build
-something amazing with AI!
+I hack, build, write, and speak - often bluntly - about what actually breaks when you run AI agents in production,
+and what it takes to make them reliable.
 
 ### Areas of Expertise
 
-- 🧠 Advanced LLM Application Development and Strategy
-- 🏗️ Production-Ready AI/ML Infrastructure Architecture
-- 🌟 Scalable Generative AI Systems Implementation
-- ☁️ Cloud-Native AI Solutions Optimized for Performance
-- 🚀 Large-Scale AI Engineering for Real-World Impact
-- 🖥️ Startup and entrepreneurial experience in AI and cloud technologies
+- 🧠 AI - LLM apps and agents engineered to survive real users: evals, feedback loops, reliability
+- 🏗️ AI Infrastructure - the plumbing that keeps models fast, cheap, and observable in production
+- ☁️ Cloud-Native - Kubernetes-native systems that scale without drama
+- 📐 Software Architecture at Scale - distributed systems that hold up under real-world load
+- 🔐 Cyber + AI - years in the cyber market: AI that's secure, and security that's (artificially) intelligent
 
 ---
 
 ## Publications
 
 1. **[The LLM Triangle Principle: Software Design Principles for Reliable LLM Apps][ltp]** <br />
-   An innovative approach to designing robust LLM-based applications for real-world use, derived from hands-on project
-   Software design principles for thoughtfully designing reliable, high-performing LLM applications. A framework to
-   bridge the gap between potential and production-grade performance.
+   Software design principles for reliable, high-performing LLM apps - a framework for bridging the gap between a
+   slick demo and production-grade performance.
 2. **[Building LLM Apps: A Step-By-Step Guide][llm-dev-proc]** <br />
-   A comprehensive guide to LLM application development, from experimentation to production, based on personal
-   implementation experience.
+   The end-to-end LLM development process - from first experiment to production.
 3. **[8 Practical Prompt Engineering Tips for Better LLM Apps][le-tips]** <br />
-   Essential tips for effective prompt engineering in LLM applications, based on direct implementation experience.
+   Field-tested prompt engineering tips - no folklore, just what worked.
 4. **[Effective AI Infrastructure Explained][ft-platform]** <br />
-   Exploring modern AI infrastructure and its impact on the ML lifecycle, informed by hands-on project work and cloud
-   native expertise.
+   What modern AI infrastructure actually needs to do for the ML lifecycle.
 5. **Talks** <br />
    From time to time, I give talks on various meetups, podcasts and conferences. You can find some of them on my
    [LinkedIn][linkedin] profile. Make sure to follow me to get updates on upcoming talks.
 
 ## As Seen On
 
-I've been featured in various podcasts, meetups, and conferences. If you're interested in having me as a guest speaker
-or panelist, please reach out via [Email][mailto].
+Want me on your stage or podcast? Reach out via [Email][mailto].
 
 Recent appearances include:
 
@@ -135,8 +128,8 @@ Hours][office-hours].
 
 ### [Office Hours][office-hours]
 
-I offer free [Office Hours][office-hours] to assist engineers, entrepreneurs, and investors with AI and LLM strategies. Let's connect to
-discuss your challenges and opportunities.
+I offer free [Office Hours][office-hours] for engineers, founders, and investors - bring a real problem, leave with a
+real plan.
 
 
 [linkedin]: https://www.linkedin.com/in/almogbaku/
