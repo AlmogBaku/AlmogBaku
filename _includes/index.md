@@ -22,7 +22,7 @@ and what it takes to make them reliable.
 - 🏗️ AI Infrastructure - the plumbing that keeps models fast, cheap, and observable in production
 - ☁️ Cloud-Native - Kubernetes-native systems that scale without drama
 - 📐 Software Architecture at Scale - distributed systems that hold up under real-world load
-- 🔐 Cyber + AI - systems and agents built for the day someone tries to break them
+- 🔐 Cyber + AI - years in the cyber market: AI that's secure, and security that's (artificially) intelligent
 
 ---
 
